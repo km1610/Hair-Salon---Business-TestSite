@@ -1,0 +1,22 @@
+.container {
+    width: 60%;
+    text-align: justify;
+    margin: auto;
+    border: 2px solid var(--red);
+    padding: 20px;
+}
+input[type="text"],input[type="email"],input[type="tel"],input[type="date"],input[type="time"]{
+    padding: 10px;
+    border-radius: 0;
+    border: none;
+    width: 100%;
+    box-shadow: 1px 1px 0px gray;
+}
+
+.link{
+    border: none;
+}
+
+.form td,tr {
+    padding: 10px;
+}
